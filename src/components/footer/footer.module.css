@@ -1,0 +1,32 @@
+.stayConnected {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+
+.wrapper {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    padding: 1.5rem 0 1.5rem 0;
+    background-color: bisque;
+}
+
+.stayConnectedText {
+    flex-basis: 100%;
+}
+
+.stayConnectedIcons img {
+    padding: 0.5rem;
+}
+@media(max-width: 550px){
+ .stayConnected {
+     flex-basis: 100%;
+ }
+    .addresses {
+        flex-basis: 100%;
+    }
+    .wrapper {
+        padding: 1rem;
+    }
+}
