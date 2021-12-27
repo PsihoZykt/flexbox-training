@@ -1,12 +1,12 @@
 import React from 'react';
-import abstract from '../assets/collections/img/abstract.jpg'
-import landscape from '../assets/collections/img/landscape.jpg'
-import music from '../assets/collections/img/music.jpg'
-import popArt from '../assets/collections/img/pop-art.jpg'
-import vehicles from '../assets/collections/img/vehicles.jpg'
-import vivid from '../assets/collections/img/vivid.jpg'
+import abstract from '../../assets/collections/img/abstract.jpg'
+import landscape from '../../assets/collections/img/landscape.jpg'
+import music from '../../assets/collections/img/music.jpg'
+import popArt from '../../assets/collections/img/pop-art.jpg'
+import vehicles from '../../assets/collections/img/vehicles.jpg'
+import vivid from '../../assets/collections/img/vivid.jpg'
 import s from './collections.module.css'
-import {COLORS} from "./common";
+import {COLORS} from "../common";
 
 const Collections = () => {
     return (

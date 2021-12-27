@@ -1,6 +1,6 @@
 import React from 'react';
-import facebookLogo from '../assets/footer/img/facebook-icon.svg'
-import instagramLogo from '../assets/footer/img/instagram-icon.svg'
+import facebookLogo from '../../assets/footer/img/facebook-icon.svg'
+import instagramLogo from '../../assets/footer/img/instagram-icon.svg'
 import s from './footer.module.css'
 
 const Footer = () => {

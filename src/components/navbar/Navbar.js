@@ -1,6 +1,6 @@
 import React from 'react';
 import s from './navbar.module.css'
-import logo from '../assets/navbar/img/header-logo.svg'
+import logo from '../../assets/navbar/img/header-logo.svg'
 const Navbar = () => {
     return (
         <div className={s.wrapper}>

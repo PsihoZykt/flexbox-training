@@ -1,9 +1,9 @@
 import React from 'react';
-import fork from '../assets/popular/img/fork-it-up.jpg'
-import car from '../assets/popular/img/lets-scoot.jpg'
-import eye from '../assets/popular/img/eyeing-you.jpg'
+import fork from '../../assets/popular/img/fork-it-up.jpg'
+import car from '../../assets/popular/img/lets-scoot.jpg'
+import eye from '../../assets/popular/img/eyeing-you.jpg'
 import s from './popular.module.css'
-import {COLORS} from "./common";
+import {COLORS} from "../common";
 
 const Popular = () => {
     return (

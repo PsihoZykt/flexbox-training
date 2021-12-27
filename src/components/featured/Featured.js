@@ -1,5 +1,5 @@
 import React from 'react';
-import tooCool from '../assets/featured/img/too-cool.jpg'
+import tooCool from '../../assets/featured/img/too-cool.jpg'
 import s from './featured.module.css'
 const Featured = () => {
     return (
