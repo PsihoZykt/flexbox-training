@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/flexbox-training/static/css/main.2dacdcbd.css",
+    "main.js": "/flexbox-training/static/js/main.a58f094f.js",
+    "static/media/music.jpg": "/flexbox-training/static/media/music.f008a94e6307e90f3228.jpg",
+    "static/media/vehicles.jpg": "/flexbox-training/static/media/vehicles.45fcf13d152d5b39ec70.jpg",
+    "static/media/too-cool.jpg": "/flexbox-training/static/media/too-cool.2a251154a5d8b2bfca6b.jpg",
+    "static/media/abstract.jpg": "/flexbox-training/static/media/abstract.9c87e4cee958771aecea.jpg",
+    "static/media/vivid.jpg": "/flexbox-training/static/media/vivid.3bddd30da2d16d83be67.jpg",
+    "static/media/logo2.png": "/flexbox-training/static/media/logo2.62f9287ec28d515cca53.png",
+    "static/media/pop-art.jpg": "/flexbox-training/static/media/pop-art.30e3da0a814df9165e8a.jpg",
+    "static/media/landscape.jpg": "/flexbox-training/static/media/landscape.f92ab843d8cb2e91ab30.jpg",
+    "static/media/eyeing-you.jpg": "/flexbox-training/static/media/eyeing-you.988cc9947040efdbd9ba.jpg",
+    "static/media/lets-scoot.jpg": "/flexbox-training/static/media/lets-scoot.5fc5bd7579b8f018260c.jpg",
+    "static/media/fork-it-up.jpg": "/flexbox-training/static/media/fork-it-up.46c68610cd94c3e2fea9.jpg",
+    "static/media/header-logo.svg": "/flexbox-training/static/media/header-logo.9febfdc7d29071baef60562ab8c89a35.svg",
+    "static/media/instagram-icon.svg": "/flexbox-training/static/media/instagram-icon.eeebd9751145827c1a388ee8fbeffc80.svg",
+    "static/media/facebook-icon.svg": "/flexbox-training/static/media/facebook-icon.91488e281ee73779f568bd1e8e3a118d.svg",
+    "index.html": "/flexbox-training/index.html",
+    "main.2dacdcbd.css.map": "/flexbox-training/static/css/main.2dacdcbd.css.map",
+    "main.a58f094f.js.map": "/flexbox-training/static/js/main.a58f094f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dacdcbd.css",
+    "static/js/main.a58f094f.js"
+  ]
+}
