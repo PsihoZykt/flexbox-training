@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/flexbox-training/static/css/main.2dacdcbd.css",
-    "main.js": "/flexbox-training/static/js/main.a58f094f.js",
+    "main.css": "/flexbox-training/static/css/main.666d26eb.css",
+    "main.js": "/flexbox-training/static/js/main.1a8653be.js",
     "static/media/music.jpg": "/flexbox-training/static/media/music.f008a94e6307e90f3228.jpg",
     "static/media/vehicles.jpg": "/flexbox-training/static/media/vehicles.45fcf13d152d5b39ec70.jpg",
     "static/media/too-cool.jpg": "/flexbox-training/static/media/too-cool.2a251154a5d8b2bfca6b.jpg",
@@ -17,11 +17,11 @@
     "static/media/instagram-icon.svg": "/flexbox-training/static/media/instagram-icon.eeebd9751145827c1a388ee8fbeffc80.svg",
     "static/media/facebook-icon.svg": "/flexbox-training/static/media/facebook-icon.91488e281ee73779f568bd1e8e3a118d.svg",
     "index.html": "/flexbox-training/index.html",
-    "main.2dacdcbd.css.map": "/flexbox-training/static/css/main.2dacdcbd.css.map",
-    "main.a58f094f.js.map": "/flexbox-training/static/js/main.a58f094f.js.map"
+    "main.666d26eb.css.map": "/flexbox-training/static/css/main.666d26eb.css.map",
+    "main.1a8653be.js.map": "/flexbox-training/static/js/main.1a8653be.js.map"
   },
   "entrypoints": [
-    "static/css/main.2dacdcbd.css",
-    "static/js/main.a58f094f.js"
+    "static/css/main.666d26eb.css",
+    "static/js/main.1a8653be.js"
   ]
 }
