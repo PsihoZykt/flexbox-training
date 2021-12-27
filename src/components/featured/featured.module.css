@@ -2,6 +2,7 @@
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
+     background-color: #DBE5DE;;
 }
 
 .wrapper img {
@@ -30,7 +31,7 @@
     border-radius: 10px;
 }
 
-figcaption div {
+.featuredFigure figcaption div {
     padding-left: 1rem;
     font-size: 2rem;
 }

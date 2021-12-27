@@ -4,6 +4,7 @@
     background-color: #005f73;
 }
 .wrapper h2 {
+    margin: 0;
     padding-left: 3rem;
     padding-top: 3rem;
     font-weight: 700;
@@ -67,6 +68,6 @@
         flex-basis: 100%;
     }
     .imageWrapper .figure:nth-child(2), .figure:nth-child(3){
-        flex-basis: 47%;
+        flex-basis: 45%;
     }
 }

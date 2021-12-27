@@ -11,7 +11,7 @@ import {COLORS} from "../common";
 const Collections = () => {
     return (
         <div className={s.wrapper}>
-            <h1> Collections </h1>
+            <h2> Collections </h2>
             <div className={s.collectionsWrapper}>
                 <Figure
                     imgSrc={abstract}
